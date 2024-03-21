@@ -1,0 +1,1 @@
+Represent this news article for searching relevant passages about events, people, dates, and facts. Make explicit reference to the date, author, and title of the news article. Prioritize recent data.

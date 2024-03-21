@@ -1,0 +1,14 @@
+*
+!*/
+
+!.gitignore
+!*_system_prompt.txt
+!how_to_use.txt
+!src/*.py
+!LICENSE
+!README.md
+!data/data/*.csv
+!LICENSE
+!README.md
+!requirements.txt
+!data/vector_db/

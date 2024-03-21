@@ -1,0 +1,26 @@
+<div style="text-align: center; font-size: 36px;">AQRANI</div>
+
+## TWISSIJA 🚨
+Is-sistema tinsab fl-ewwel fażijiet tal-iżvilupp tagħha. Għadha mhix lesta fl-istat kurrenti tagħha.
+
+## Kun af li.. 📣
+* Is-sistema tifhem biss bl-**Ingliż**.
+* It-tagħrif tas-sistemà jigi biss minn artikli tat-**Times of Malta** ppublikati bejn is-snin 2018 u 2024. Is-sistema b'hekk m'għanda l-ebda għarfien fuq ġrajjiet u persuni li ma ġewx msemmijin minn din il-gazzetta. Żomm dan il-punt f'moħħok int u ssaqsi d-domandi tiegħek.
+* Jekk ħa ssaqsi mistoqsija li m'għandiex x'taqsam mat-tema tad-diskursata ta' qabel, agħfas _Start New Topic_ biex terġa tibda mill-ġdid ħalli s-sistemà tkun tista' taqdik aħjar.
+* Biex is-sistema tagħtik risposti aktar relevanti, illimita l-artikli għad-domanda tiegħek għal perjodu ta' żmien speċifiku mill-iSlider. **Uża l-iSlider ta' fuq sabiex itejjeb il-kwalità tar-risposti.**
+* Hemm ċans li l-Intelliġenza Artifiċjali tħarref informazzjoni falza. B'hekk hija ir-reponsabilità tiegħek li **tiċċekkja x'qed jintqal** mis-sistema mis-sorsi provduti taħt.
+
+## Ħolqa għas-sondaġġ 📝
+[https://forms.gle/YNrzw9AELsCLe28o8](https://forms.gle/YNrzw9AELsCLe28o8)
+
+
+<!-- DISCLAIMER: The following system is still in the early stages of development. It is by no-means a finished product. -->
+<!-- • The system's knowledge of the world comes solely from Times of Malta articles published between 2018 and 2024. In this regard, the system does not know of any other event that was not explictly mentioned in this newspaper. Keep this in mind during querying. -->
+
+
+<!-- • If you wish to ask a question urelated to the previous discussion, press Start New Topic to start anew so the system can better facilitate your request,
+
+• Choose the year of publication of the articles retrieved by the system. This helps the system give more relevant responses.
+
+• Keep in mind that AI models are susceptible to hallucinations. In this regard, it is your responsbility to fact-check important information from the provided sources. -->
+
