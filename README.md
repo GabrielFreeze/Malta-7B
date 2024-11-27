@@ -34,7 +34,7 @@ python -c "import torch; print(torch.cuda.is_available())" #True
 ## Usage
 
 ### Step 1 - Data Directory
-Place your news articles under ```data/data``` in the format ```data_{year}.csv```. Refer to XX for column format.
+Place your news articles under ```data/data``` in the format ```data_{year}.csv```. Refer to [test.csv](https://github.com/GabrielFreeze/Malta-7B/blob/main/data/data/test.csv) for column format.
 
 
 ### Step 2 - Change Directory
