@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ### Step 3 - Install CUDA
 <ul>
   <li><a href="https://pytorch.org/get-started/locally/" target="_blank">Install PyTorch w/ CUDA support</a></li>
-  <li><a href="https://developer.nvidia.com/cuda-downloads" target="_blank">Install apprpriate CUDA toolkit</a></li>
+  <li><a href="https://developer.nvidia.com/cuda-downloads" target="_blank">Install appropriate CUDA toolkit</a></li>
   <li><a href="https://developer.nvidia.com/cuda-downloads](https://medium.com/@harunijaz/a-step-by-step-guide-to-installing-cuda-with-pytorch-in-conda-on-windows-verifying-via-console-9ba4cd5ccbef" target="_blank">CUDA Installation Tutorial</a></li>
 </ul>
 
